@@ -1,0 +1,15 @@
+.DS_Store
+/venv
+/.vscode
+/__pycache__
+/.ipynb_checkpoints
+*.xlsx
+*.doc*
+*.ppt*
+*.pdf
+/data
+/test
+*.zip
+*.tar*
+*.csv
+
